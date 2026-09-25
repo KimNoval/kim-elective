@@ -27,7 +27,7 @@
                                             type="text"
                                             id="first-name"
                                             name="fname"
-                                            placeholder="Juan"
+                                            placeholder="Muffy"
                                             required
                                         >
                                     </div>
@@ -39,7 +39,7 @@
                                             type="text"
                                             id="last-name"
                                             name="lname"
-                                            placeholder="Dela Cruz"
+                                            placeholder="Lavon"
                                             required
                                         >
                                     </div>
